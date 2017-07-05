@@ -89,6 +89,8 @@
 }
 
 
+
+#pragma mark- set
 - (UITableView *)myTableView
 {
     if (!_myTableView) {
